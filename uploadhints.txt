@@ -1,0 +1,7 @@
+in bash, type 'ftp' then 'put localfilename serverfilename' to move a file from the current working directory to the server
+
+ftp username@server.org
+enter password 
+cd folder
+put localfilename serverfilename
+
